@@ -1,0 +1,80 @@
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\Bunifu.Licensing.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\RestSharp.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.CodeDom.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Text.Json.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\CapaEntidad.dll.config
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\RestSharp.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.CodeDom.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Text.Json.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pablo\Music\AgendaElectronnica\CapaDatos\bin\Debug\System.ValueTuple.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\Bunifu.Licensing.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\RestSharp.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.CodeDom.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Text.Json.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\CapaEntidad.dll.config
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\RestSharp.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.CodeDom.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Text.Json.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\bin\Debug\System.ValueTuple.xml
+C:\Users\pablo\Desktop\MATERIAS ITLA\p2 programas\p2pract\AgendaElectronnica\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
